@@ -23,12 +23,12 @@ const Footer = () => {
                 <span>
                     By{" "}
                     <a
-                        href="https://github.com/pdqdat"
+                        href="https://github.com/PUPMKINN"
                         target="_blank"
                         className="font-semibold text-indigo-500 duration-300 ease-in-out hover:text-indigo-600"
                         rel="noreferrer"
                     >
-                        Dat Phan
+                        Xuân Bách
                     </a>
                 </span>
             </div>
