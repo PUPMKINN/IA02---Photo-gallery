@@ -17,8 +17,8 @@ import Header from "@comp/header";
 import Footer from "@comp/footer";
 
 export const metadata: Metadata = {
-    title: "Unsplash Photo Gallery | 20120268",
-    description: "A photo gallery using Unsplash API by Dat Phan - 20120268",
+    title: "Unsplash Photo Gallery | 21127011",
+    description: "A photo gallery using Unsplash API - 21127011",
 };
 
 export default function RootLayout({
